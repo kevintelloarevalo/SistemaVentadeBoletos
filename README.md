@@ -1,17 +1,18 @@
-# SistemaPuntodeVenta
+# SistemaVenta de Boletos
 
-Este sistema se creo en 3 meses y medio, en el año 2022.
+Este sistema se creo en 2 meses, en el año 2023.
 
 # CRUD
 - Clientes
-- Proveedores
-- Empleados
-- Productos
+- Proveedores  (Empresas Productoras) 
+- Empleados 
+- Boletos (Tipos de Categoria de boletos, precios, cantidad)
 - Usuarios (roles)
 # FUNCIONES
 - Dashboard reportes
-- Crear Ventas
-- Editar Ventas
-- Eliminar Ventas
+- Crear Ventas de boletos, con enumeración del ticket
+- Editar Ventas de boletos, manejo de stock.
+- Eliminar Ventas de boletos, devolver el stock
 - Reponer Stock
+- PDF de boleto diseñado correctamente.
 - Etc
